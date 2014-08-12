@@ -1,0 +1,63 @@
+
+/* CSS Doucment */ 
+
+
+body {
+	background-image:url('../images/nyancat2.jpg')
+}
+
+
+#container {
+	margin:0 auto;
+	width:800px;
+	background:#fff;
+
+}
+
+
+#titleHeader {
+	color:#fff;
+	background:#000;
+	height:80px;
+	width: 800;
+	text-align: center;
+
+}
+
+#mainQuizBody {
+	text-align: center;
+
+
+}
+
+#mainQuizBody img {
+	margin:5px;
+	margin-left: auto;
+	margin-right:auto;	
+
+}
+
+#quizSection {
+	text-indent: 2px;
+	
+
+}
+
+#quizQuestions{
+	height:200px;
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#correctAnswers {
+	text-align: center;
+	font-size: 20px;
+}
+
+
+ #quizQuestion2, #quizAnswer2, #quizImg2, #quizQuestion3, #quizAnswer3,#quizImg3, #quizQuestion4,#quizAnswer4,#quizImg4,#quizQuestion5,#quizAnswer5,#quizImg5,
+	#quizQuestion6,#quizAnswer6,#quizImg6 {
+	display:none;
+
+}
